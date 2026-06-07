@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://best-iptv-sub.github.io/how-to-map-external-epg-url-to-raw-m3u-playlist/sitemap.xml
